@@ -1,0 +1,14 @@
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\bin\Debug\TemplateBrute.exe.config
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\bin\Debug\TemplateBrute.exe
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\bin\Debug\TemplateBrute.pdb
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\bin\Debug\MetroFramework.dll
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\obj\Debug\TemplateBrute.csproj.AssemblyReference.cache
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\obj\Debug\TemplateBrute.Form1.resources
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\obj\Debug\TemplateBrute.Properties.Resources.resources
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\obj\Debug\TemplateBrute.csproj.GenerateResource.cache
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\obj\Debug\TemplateBrute.csproj.CoreCompileInputs.cache
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\obj\Debug\TemplateBrute.csproj.CopyComplete
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\obj\Debug\TemplateBrute.exe
+C:\Users\Arshian\source\repos\TemplateBrute\TemplateBrute\obj\Debug\TemplateBrute.pdb
